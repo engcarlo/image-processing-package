@@ -13,7 +13,7 @@ setup(
     author_email =                      "o.manifesto.da.riqueza@gmail.com",
     long_description =                  page_description,
     long_description_content_type =     "text/markdown",
-    url =                               "my_github_repository_project_link",
+    url =                               "https://github.com/engcarlo/image-processing-package",
     packages =                          find_packages(),
     install_requires =                  requirements,
     python_requires =                   '>=3.8'
